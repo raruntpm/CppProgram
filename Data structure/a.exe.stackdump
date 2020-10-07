@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004014A8
+eax=00000000 ebx=6124743E ecx=6116AFA0 edx=00000001 esi=61247444 edi=00000000
+ebp=0022CD58 esp=0022CD10 program=E:\cygwin\home\Arun\C++ program\Data structure\a.exe, pid 5188, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CD58  004014A8  (61247444, 00000000, 0022CD98, 61007038)
+0022CD98  61007038  (00000000, 0022CDD4, 61006980, 7FFDF000)
+End of stack trace
